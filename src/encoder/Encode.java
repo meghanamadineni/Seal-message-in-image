@@ -57,7 +57,7 @@ public class Encode {
 				image.setRGB(j,i,rgb);
 			}
 		}
-		ImageIO.write(image, "BMP", new File("filename.bmp"));
+		ImageIO.write(image, "BMP", new File("output.bmp"));
 	}
 
 	private int decidePixelsCount(int msglen, BufferedImage image) {
