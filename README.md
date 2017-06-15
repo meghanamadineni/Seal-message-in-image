@@ -5,7 +5,7 @@ Steganography is the science of hiding information. This project is about hiding
 ## Executing Encoder
 For encoding, encode.py is run.<br/>
 >python encode.py <br/>
-Image location and the message to be embedded are given as inputs. The output image gets saved in the project root folder.<br/>
+Image location and the message to be embedded are given as inputs. The output image gets saved as output.bmp in the project root folder.<br/>
 
 ## Executing Decoder
 For decoding, decode.py is run.<br/>
